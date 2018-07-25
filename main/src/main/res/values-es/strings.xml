@@ -448,4 +448,12 @@ hacia/de Móvil)</string>
   <string name="volume_mbyte">%.1f MB</string>
   <string name="volume_gbyte">%.1f GB</string>
   <string name="channel_description_background">Ongoing statistics of the established OpenVPN connection</string>
+
+  <string name="menu_title_vpn">VPN</string>
+  <string name="menu_title_box">Baúl</string>
+  <string name="menu_title_security">Seguridad</string>
+  <string name="menu_title_about">About</string>
+  <string name="menu_title_exit">Salir</string>
+  <string name="fragment_to_do">To do</string>
+
 </resources>

@@ -482,5 +482,11 @@
     </string>
     <string name="openurl_requested">Open URL to continue VPN authentication</string>
     <string name="state_auth_pending">Authentication pending</string>
+    <string name="menu_title_vpn">VPN</string>
+    <string name="menu_title_box">Box</string>
+    <string name="menu_title_security">Security</string>
+    <string name="menu_title_about">About</string>
+    <string name="menu_title_exit">Exit</string>
+    <string name="fragment_to_do">To do</string>
 
 </resources>

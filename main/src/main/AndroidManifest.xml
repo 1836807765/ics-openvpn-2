@@ -57,7 +57,8 @@
             android:launchMode="singleTask" />
         <activity android:name=".activities.FileSelect" />
         <activity
-            android:name=".activities.MainActivity"
+            android:name="manu.ui.main.MainActivityManu"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
             tools:ignore="ExportedActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -234,6 +235,7 @@
         <activity
             android:name=".api.RemoteAction"
             />
+
         <activity-alias
             android:exported="true"
             android:name=".api.DisconnectVPN"

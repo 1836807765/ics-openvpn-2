@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_vpn"
+        android:icon="@drawable/ic_vpn"
+        android:title="@string/menu_title_vpn" />
+    <item
+        android:id="@+id/action_box"
+        android:icon="@drawable/ic_box"
+        android:title="@string/menu_title_box" />
+    <item
+        android:id="@+id/action_security"
+        android:icon="@drawable/ic_security"
+        android:title="@string/menu_title_security" />
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/ic_about"
+        android:title="@string/menu_title_about" />
+    <item
+        android:id="@+id/action_exit"
+        android:icon="@drawable/ic_exit"
+        android:title="@string/menu_title_exit" />
+
+</menu>
